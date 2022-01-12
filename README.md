@@ -1,6 +1,6 @@
 # todo_app
 
-A new Flutter project.
+Todo app to do your task, easy and simple, supports Dark & Light mode .try it
 
 ## Getting Started
 
